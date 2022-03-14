@@ -1,0 +1,28 @@
+Find a dataset
+=========================
+ 
+
+
+There are many websites from which medical/plants/objects data can be downloaded.
+
+See (Medical) `This Link <https://github.com/sfikas/medical-imaging-datasets>`_.
+
+See (Medical) `This Link <https://www.aylward.org/notes/open-access-medical-image-repositories>`_.
+
+See (Plants) `This Link <https://www.quantitative-plant.org/dataset>`_.
+
+Sample datasets used to demonstrate the working of this project are mentioned in the paper.
+
+
+Directory form.
+----------------------------
+
+.. image:: directory.png
+  :width: 400
+
+This directory shows 9 folders; each contains images for a specific class. Any number of images can be removed for real testing, or another dataset can be used for this purpose. We removed about 5 images from each category for real testing, which is the last step in the pipeline.
+
+
+
+
+
